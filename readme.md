@@ -21,6 +21,10 @@ Analyze retail sales data and explore key KPIs in an interactive Streamlit dashb
 
 
 
+## Dashboard Screenshots
+![Dashboard Screenshot 1](assets/picture1.png)
+![Dashboard Screenshot 2](assets/picture2.png)
+
 ## Data
 The dashboard expects `data/sales.csv` with (at minimum) these columns:
 - `product_id`
